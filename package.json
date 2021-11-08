@@ -1,0 +1,28 @@
+{
+  "name": "OtakuBot",
+  "version": "3.3.2",
+  "description": "Open Source version of OtakuBot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "NightcoreATDZO#3550",
+  "dependencies": {
+    "administrator": "0.0.1",
+    "chalk": "^2.4.2",
+    "discord.js": "^12.5.3",
+    "integer": "4.0.0",
+    "lodash.get": "^4.4.2",
+    "lodash.set": "^4.3.2",
+    "lodash.unset": "^4.5.2",
+    "moment": "^2.24.0",
+    "node-gyp": "^4.0.0",
+    "node-superfetch": "^0.1.9",
+    "os-utils": "^0.0.14",
+    "alexflipnote": "^2.5.0",
+    "random-puppy": "^1.1.0",
+    "superagent": "^6.1.0",
+    "urban": "^0.3.2",
+    "with": "^6.0.0"
+  }
+}
